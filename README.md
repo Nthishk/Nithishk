@@ -5,8 +5,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
 ## �� GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithish&amp;show_icons=true&amp;theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithish&amp;layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithish&amp;show_icons=true&amp;theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish&amp;layout=compact)
 ## �� Connect with Me- ✉️ Email: nithishkondlepu@gmail.com 
 ![Static Badge](https://img.shields.io/badge/java-advanced-blue)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithishk&amp;show_icons=true)
