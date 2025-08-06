@@ -18,4 +18,4 @@ stats.vercel.app/api?username=renukacsit&amp;show_icons=true&amp;theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-
 langs/?username=renukacsit&amp;layout=compact)
 ## �� Connect with Me- ✉️ Email: nithish@example.com- �� LinkedIn: [nithish
-Profile](https://linkedin.com/in/renuka-example)
+Profile](https://linkedin.com/in/nithish-example)
