@@ -7,5 +7,4 @@
 ## �� GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithish&amp;show_icons=true&amp;theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithish&amp;layout=compact)
-
-## 📫 Connect with Me- ✉️ Email: nithish@example.com- 🔗 LinkedIn: [nithish Profile](https://linkedin.com/in/nithish-example)
+## �� Connect with Me- ✉️ Email: nithish@example.com- 
