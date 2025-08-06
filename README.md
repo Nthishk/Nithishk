@@ -9,4 +9,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish&amp;layout=compact)
 ## �� Connect with Me- ✉️ Email: nithishkondlepu@gmail.com 
 ![Static Badge](https://img.shields.io/badge/java-advanced-blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithishk&amp;show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithish&amp;show_icons=true)
